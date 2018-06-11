@@ -1,5 +1,7 @@
 body {
     padding: 5px;
+    width: 480px;
+    background: no-repeat;
 }
 
 p {
@@ -9,4 +11,8 @@ p {
 
 .border {
     border: #555 solid 1px;
+}
+
+.float-left {
+    float: left;
 }
