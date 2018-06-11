@@ -1,0 +1,18 @@
+body {
+    padding: 5px;
+    width: 480px;
+    margin: 0 auto;
+}
+
+p {
+    padding-top: 5px;
+    text-align: center;
+}
+
+.border {
+    border: #555 solid 1px;
+}
+
+.float-left {
+    float: left;
+}
